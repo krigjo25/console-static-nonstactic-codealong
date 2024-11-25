@@ -20,6 +20,8 @@ public class StaticExample
 }
 ```
 
+
+
 ## Non-Static Functions
 
 Non-static function is (aka instance method) a function which is tied up to an instance of a class.
@@ -51,6 +53,9 @@ public class EncapsulationExample
 	}
 }
 ```
+
+## Requirements
+- .NET 8 SDK -> [Download](https://dotnet.microsoft.com/download/dotnet/5.0)
 
 ## License
 [No Licence](https://choosealicense.com/no-permission/)
