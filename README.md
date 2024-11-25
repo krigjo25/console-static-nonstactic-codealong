@@ -1,0 +1,1 @@
+# Static- non static functions
