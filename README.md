@@ -37,8 +37,7 @@ public class NonStaticExample
 
 ## Encapsulation
 
-Encapsulation is the concept of bundling the data (fields) and methods (functions)
-that operate on the data into a single unit (class).
+Encapsulation is a Bundle of data and functions
 
 ```csharp
 public class EncapsulationExample
