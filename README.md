@@ -7,8 +7,8 @@ It's based upon a codealong with Terje Kolboten
 
 ## Static Functions
 
-Static functions are functions that are not tied to an instance of a class. 
-They can be called directly from the class itself.
+Static functions are functions which are not tied up to an instance of a class. 
+They can be called directly from the class itself, without  initializing an object of the class
 
 ```csharp
 public class StaticExample
@@ -22,8 +22,8 @@ public class StaticExample
 
 ## Non-Static Functions
 
-Non-static functions are functions that are tied to an instance of a class.
-They can only be called from an instance of the class.
+Non-static function is (aka instance method) a function which is tied up to an instance of a class.
+Which means that an object must be initialized first then called.
 
 ```csharp
 public class NonStaticExample
