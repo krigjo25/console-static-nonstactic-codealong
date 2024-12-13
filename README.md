@@ -1,5 +1,5 @@
 # Static- non static functions | Introduction to encapsulation
-This is a simple example of static and non-static functions in C#.
+This is a simple example of static and non-static functions in C#.<br>
 It's based upon a codealong with Terje Kolboten 
 [Undervisning - Objekter via static](https://www.youtube.com/watch?v=aoh-XvXdyCA) and 
 [Introduksjon til innkapsling](https://www.youtube.com/watch?v=Zo_ul94-L9E&t=1s )
